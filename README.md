@@ -6,12 +6,10 @@
 
 <h3 align="center">A 42 Codam Pisciner from The Netherlands 🇳🇱</h3>
 
-<br/>
-
 <div align="center">
  
  🔭 I’m currently working on **42 Codam Piscine**
- 
+ <br/>
  🌱 I’m currently learning **C, Shell**
  
  </div>
