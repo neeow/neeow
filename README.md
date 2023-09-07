@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **42 Piscine**
+ 🔭 I’m currently working on **42 Codam Piscine**
  
  🌱 I’m currently learning **C, Shell**
  
