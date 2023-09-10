@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **42 Codam Piscine**
+ 🔭 I’m currently working on **Nothing**
  <br/>
  🌱 I’m currently learning **C, Shell**
  
