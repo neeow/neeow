@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Welcome+to+my+profile!+👋;+I'm+Neo!;" />
 </h1>
 
-<h3 align="center">A 42 Codam Pisciner from The Netherlands 🇳🇱</h3>
+<h3 align="center">I'm from The Netherlands 🇳🇱</h3>
 
 <div align="center">
  
