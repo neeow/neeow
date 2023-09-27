@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Nothing**
+ 🔭 I’m currently working on **"Nothing"**
  <br/>
- 🌱 I’m currently learning **C, Shell**
+ 🌱 I’m currently learning **"Nothing"**
  
  </div>
  
